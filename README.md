@@ -4,7 +4,7 @@
 **h-square/h-square** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on c++
 - 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on React 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mohitsolanki83974@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 I’m Mohit. I am an Web  Developer and Competitive Programmer.
 
